@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um sistema web desenvolvido em **Django** para gestão de **laboratórios** e **observações** associadasm solicitado para disciplina de Engenharia de Software da Universidade Federal de Alagoas. O projeto permite aos administradores realizar as operações básicas de CRUD (criar, ler, editar e excluir) tanto para laboratórios quanto para as observações registradas pelos usuários.
+Este é um sistema web desenvolvido em **Django** para gestão de **laboratórios** e **observações** associadas, solicitado para disciplina de Engenharia de Software da Universidade Federal de Alagoas. O projeto permite aos administradores realizar as operações básicas de CRUD (criar, ler, editar e excluir) tanto para laboratórios quanto para as observações registradas pelos usuários.
 
 ## Funcionalidades
 
