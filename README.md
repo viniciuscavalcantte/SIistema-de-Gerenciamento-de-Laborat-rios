@@ -18,10 +18,6 @@ Este é um sistema web desenvolvido em **Django** para gestão de **laboratório
   - Editar observações existentes.
   - Remover observações.
 
-- **Autenticação de Usuários**:
-  - O sistema exige login para acessar as funcionalidades.
-  - Somente administradores (superusuários) podem cadastrar, editar e remover laboratórios.
-
 ## Tecnologias Utilizadas
 
 - **Backend**: Django (Python)
